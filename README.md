@@ -4,6 +4,13 @@
 
 This Power BI dashboard provides insights and analysis for an e-commerce dataset. It visualizes key metrics and trends to help businesses make data-driven decisions.
 
+## Exploratory Data Analysis (EDA) for understanding the dataset.
+- Customer segmentation based on purchasing behavior.
+- Product performance analysis.
+- Sales trends and forecasting.
+- Customer churn prediction.
+- Visualizations for intuitive interpretation.
+
 ## Features
 
 - Interactive dashboards with multiple visualizations.
