@@ -17,7 +17,7 @@ The dataset used in this project can be found [(https://www.kaggle.com/datasets/
 
 ## Dashboard Screenshots
 
-![Dashboard Screenshot 1]([insert_screenshot1_link](https://drive.google.com/file/d/1BF3ZSPQ1i6XZBYQpTSYEjlXKvgJnx4M0/view?usp=sharing))
+(https://drive.google.com/file/d/1BF3ZSPQ1i6XZBYQpTSYEjlXKvgJnx4M0/view?usp=sharing)
 
 
 
