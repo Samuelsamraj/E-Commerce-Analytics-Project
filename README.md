@@ -13,7 +13,7 @@ This Power BI dashboard provides insights and analysis for an e-commerce dataset
 
 ## Data Source
 
-The dataset used in this project can be found [here](https://www.kaggle.com/datasets/carrie1/ecommerce-data).
+The dataset used in this project can be found [(https://www.kaggle.com/datasets/carrie1/ecommerce-data)].
 
 ## Dashboard Screenshots
 
